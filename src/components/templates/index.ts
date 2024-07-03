@@ -1,4 +1,4 @@
-import { CustomFields } from "@m6oss/schema-form";
+import { CustomFields } from "@react-formgen/json-schema";
 import { BootstrapArrayField } from "./BootstrapArrayField";
 import { BootstrapBooleanField } from "./BootstrapBooleanField";
 import { BootstrapNumberField } from "./BootstrapNumberField";

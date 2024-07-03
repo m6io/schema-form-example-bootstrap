@@ -7,7 +7,7 @@ export function Navbar() {
     <header className="sticky-top bg-body border-bottom">
       <div className="container-fluid d-flex justify-content-between align-items-center p-3">
         <a className="navbar-brand fw-bold" href="/">
-          @m6oss/schema-form
+          @react-formgen/json-schema
         </a>
         <nav className="d-flex align-items-center">
           <ThemeToggle />
@@ -20,7 +20,7 @@ export function Navbar() {
             <SiYoutube className="h-100 w-100" />
           </a>
           <a
-            href="https://github.com/m6io/schema-form"
+            href="https://github.com/m6io/react-formgen"
             target="_blank"
             className="btn btn-link text-body p-2"
             aria-label="GitHub"

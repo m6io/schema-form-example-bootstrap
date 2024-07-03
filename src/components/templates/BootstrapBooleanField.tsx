@@ -2,7 +2,7 @@ import {
   BooleanSchema,
   useFieldData,
   useFieldErrors,
-} from "@m6oss/schema-form";
+} from "@react-formgen/json-schema";
 
 /**
  * Boolean Field Component Template
