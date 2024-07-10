@@ -7,7 +7,7 @@ export function Navbar() {
     <header className="sticky-top bg-body border-bottom">
       <div className="container-fluid d-flex justify-content-between align-items-center p-3">
         <a className="navbar-brand fw-bold" href="/">
-          @react-formgen/json-schema
+          @react-formgen
         </a>
         <nav className="d-flex align-items-center">
           <ThemeToggle />
